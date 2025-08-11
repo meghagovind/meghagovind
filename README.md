@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **🧑‍💻 My personal **portfolio website****
 
-- 🌱 I’m currently learning **📱 React Native , 🔄 GitHub Actions & CI/CD pipelines**
+- 🌱 I’m currently learning **📱 Gen AI , 🔄 ETL Pipelines **
 
 - 👯 I’m looking to collaborate on **📦 **HR data pipeline** projects**
 
-- 🤝 I’m looking for help with **🧠 **React Native** and **App Deployment Strategies****
+- 🤝 I’m looking for help with **🧠 ** Data Engineer ** and ** Data Science Projects ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/meghagovind](https://github.com/meghagovind)
 
-- 💬 Ask me about **🔶 Power BI & dashboard storytelling,⚙️ DevOps with Terraform & Jenkins ,🔤 Machine Learning basics (TF-IDF, Scikit-learn, NLTK)**
+- 💬 Ask me about **🔶 Power BI & dashboard storytelling,⚙️ DevOps with Terraform & Gen AI ,🔤 Machine Learning basics (TF-IDF, Scikit-learn, NLTK)**
 
 - 📫 How to reach me **https://linkedin.com/in/meghagovind**
 
