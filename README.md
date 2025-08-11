@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **🧑‍💻 My personal **portfolio website****
 
-- 🌱 I’m currently learning **📱 Gen AI , 🔄 ETL Pipelines **
+- 🌱 I’m currently learning **📱 Gen AI , 🔄 ETL Pipelines**
 
 - 👯 I’m looking to collaborate on **📦 **HR data pipeline** projects**
 
-- 🤝 I’m looking for help with **🧠 ** Data Engineer ** and ** Data Science Projects ****
+- 🤝 I’m looking for help with **🧠 ** Data Engineer** and **Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meghagovind](https://github.com/meghagovind)
 
